@@ -1,0 +1,16 @@
+
+አዲስ    B-Product
+ስልኮች  I-Product
+በ      O
+15000  B-PRICE
+ብር    I-PRICE
+በ      O
+አዲስ    B-LOC
+አበባ    I-LOC
+ይገኛሉ። O
+
+ሴት      B-Product
+ልብስ    I-Product
+ዋጋ     B-PRICE
+2000    I-PRICE
+ብር     I-PRICE
