@@ -1,0 +1,11 @@
+telethon
+pandas
+python-dotenv
+nltk
+transformers
+datasets
+seqeval
+label-studio
+spacy
+flair
+tqdm
